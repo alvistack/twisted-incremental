@@ -1,0 +1,4 @@
+python3-incremental: copyright-without-copyright-notice
+python3-incremental: initial-upload-closes-no-bugs
+python3-incremental: no-manual-page
+python3-incremental: zero-byte-file-in-doc-directory
