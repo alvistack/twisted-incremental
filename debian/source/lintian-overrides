@@ -1,0 +1,5 @@
+python-incremental source: file-without-copyright-information
+python-incremental source: no-debian-changes
+python-incremental source: source-contains-prebuilt-windows-binary
+python-incremental source: source-is-missing
+python-incremental source: source-package-encodes-python-version

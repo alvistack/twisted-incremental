@@ -18,3 +18,4 @@ apidocs/
 .DS_Store/
 coverage.xml
 !/.github/
+.pybuild/
